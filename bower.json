@@ -1,0 +1,26 @@
+{
+  "name": "blogger",
+  "description": "",
+  "main": "",
+  "authors": [
+    "shao <yangshao2014@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^0.3.0",
+    "angular": "^1.5.6",
+    "angular-resource": "^1.5.6",
+    "angular-animate": "^1.5.6",
+    "angular-translate": "^2.11.0",
+    "angular-cookies": "^1.5.6",
+    "bootstrap": "^3.3.6"
+  }
+}
